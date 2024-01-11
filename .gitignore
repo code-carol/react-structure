@@ -58,8 +58,6 @@ desktop.ini
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
-.yarn-integrity
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -82,5 +80,3 @@ yarn-error.log*
 # vscode
 .vscode/
 
-# Storybook
-storybook-static
